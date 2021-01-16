@@ -1,5 +1,5 @@
 var timestamp = Date.parse(new Date());
-var time = timestamp/1000 - 1358006408;
+var time = timestamp/1000 - 1134259200;
 
 function timedCount()
 {
